@@ -1,0 +1,7 @@
+[package]
+name = "lodepng-leak"
+version = "0.1.0"
+authors = ["Sergey \"Shnatsel\" Davidoff <shnatsel@gmail.com>"]
+
+[dependencies]
+lodepng = {git = "https://github.com/Shnatsel/lodepng-rust.git"}
